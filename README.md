@@ -3,4 +3,5 @@
   
 ![](https://komarev.com/ghpvc/?username=edtroject&label=+tigers++&color=000000)  
 
-![tenor](https://i.pinimg.com/originals/6a/3a/c4/6a3ac42c315b53bbceee75eff85daa8c.gif)
+<img src=https://i.pinimg.com/1200x/69/a3/a3/69a3a359115e5ee82d1fa4791b17cb91.jpg width="450" height="350"> 
+
