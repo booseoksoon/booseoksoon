@@ -4,5 +4,5 @@
   
 ![](https://komarev.com/ghpvc/?username=edtroject&label=+tigers++&color=000000)  
 
-<img src=https://i.pinimg.com/736x/48/c6/af/48c6af37619cad4377964966a96d74c6.jpg width="350" height="280">
+<img src=https://i.pinimg.com/originals/e6/94/22/e694225ba577ee7d8d5e164389299bd3.gif width="350" height="280">
 <div id="text" align="center">
