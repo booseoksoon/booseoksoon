@@ -1,10 +1,7 @@
-<div id="text" align="center">
 
+ <div id="text" align="center">
 
-  
-![](https://komarev.com/ghpvc/?username=edtroject&label=+tigers++&color=000000)  
-
-<img src=https://i.pinimg.com/originals/64/fb/7d/64fb7dd81f88a01f6daa9bb3ec8185b4.gif width="350" height="280">
+<img src=https://i.pinimg.com/736x/ee/e0/c7/eee0c7e00748e2b7fe17f9d7f8e685ed.jpg width="350" height="280">
 <div id="text" align="center">
 
 #### [ata](https://univrsfactory.atabook.org)    [gunslol](https://guns.lol/booseoksoon) 
