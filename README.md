@@ -18,4 +18,4 @@
  
 
 
- [ata](https://univrsfactory.atabook.org) [byi](https://rentry.co/17wishes)   [interests](https://rentry.co/howoodan) 
+ [ata](https://univrsfactory.atabook.org)   [interests](https://rentry.co/howoodan) 
